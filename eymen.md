@@ -1,18 +1,12 @@
 # About Me
 
 Hi,\
-I'm Eymen, The founder of Smoth Web team, I'm web developer specilaized in React and PHP,\
+I'm Eymen, The founder of [Smoth Web](https://github.com/eymeen/mij3us/blob/main/eymen.md#smoth-web) team, I'm web developer specilaized in React and PHP,\
 but my skills doesn't end here because I know more and I'll learn more 
 
 I’m interested in everything related in web designing,\
 programming and developing. I have graphic design background but I'm not a **graphic designer**
 
-<!-- about Smoth Web  -->
-<details>
-  <summary>What Is Smoth Web</summary>
-  <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-</details>
-<!-- ! end about smothweb -->
 
 # My Capabilities 
 I know the basics `HTML`, `CSS` and `JS`, I created too many project **only** with these three languages so I can create very complex projects with them
@@ -45,6 +39,11 @@ I'm planing to learn :
  2. `morphsvg`
  3. `cordova` for creating phone applications with web languages
  
+ 
+# Smoth web
+
+
+
 # Contact Me
 
 You can find me on : [Smoth Web site](https://smothweb.com), eymen@smothweb.com, or in [Upwork](https://www.upwork.com/freelancers/~0154817bf32862f741)
