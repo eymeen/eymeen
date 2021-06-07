@@ -43,7 +43,20 @@ I'm planing to learn :
  
 # Smoth web
 
+### what is smothweb
+Smoth web is team of web developers, UI/UX designers and logo designers that workin to make the web easier for both of user and developer 
 
+projects :
+  ### 1. Modular + 
+   modular +, modular.plus or mdp is a customizable css framework,
+   we developing now figma plugin, and website for customizing the framework, and also is customizable from .mdp file (modular's JSON file)
+   the framework uses `HTML` class for displaying element's stylings like [bootstrap](https://getbootstrap.com/)
+   also you can publish your style system or use published style system.
+   
+  ### 2. Modicon 
+   icon pack, up to 700 icons 
+   
+<!--   ### 3. components generator website -->
 
 # Contact Me
 
