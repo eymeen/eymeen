@@ -13,6 +13,7 @@ I know the basics `HTML`, `CSS` and `JS`, I created too many project **only** wi
 
 but I also talented in `React`, `Jquery`, `bootstrap`, `UIkit`, _and currently learning_ `vue.js`
 
+
 I use `PHP`, `MySQL`, and `MongoDB` for back-end 
 
 I can do :
@@ -32,7 +33,7 @@ I can do :
 
 # Current Status
 
-I’m currently learning `vue.js` and upgrading my skills in OOP, SEO, and UI/UX
+I’m currently learning `vue.js` and upgrading my skills in `OOP`, `SEO`, and `UI/UX`.
 
 I'm planing to learn :
  1. `greensock`
