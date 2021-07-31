@@ -30,6 +30,54 @@ I can do :
  11. Prototyping
  12. User Interface ( typography, colors, effects, etc... )
 
+I use these plugins :
+  1. FusionCharts
+  2. Textblock  
+  3. Uppy  
+  4. Tone.js   
+  5. Editor.js   
+  6. lax.js   
+  7. typelt   
+  8. iro.js   
+  9. Cleave.js   
+  10. Freezeframe.js   
+  11. darkmode.js   
+  12. Scene.js   
+  13. Overlay   
+  14. Scrollbars    
+  15. MailtoUI   
+  16. FullScreen Slider
+  17. pagemap    
+  18. Chart.xkcd    
+  19. GPickr    
+  20. Moveable    
+  21. Cube.js    
+  22. simpleParallax    
+  23. Bounds.js    
+  24. Creepyface    
+  25. LegraJS    
+  26. Paged.js    
+  27. Focus    
+  28. Overlay    
+  29. Flowy    
+  30. Choreographer-js   
+  31. Leaflet.js    
+  32. Lory    
+  33. CurrencyFormatter.js    
+  34. Shave.js    
+  35. ScrollReveal   
+  36. Bricks.js    
+  37. MediumEditor    
+  38. Substance    
+  39. List.js    
+  40. Popper.js    
+  41. InlineTweet.js    
+  42. SweetAlert2    
+  43. Force.js    
+  44. Push.js    
+  45. Bideo.js    
+  46. algolia search     
+  47. anime.js
 
 # Current Status
 
@@ -64,51 +112,4 @@ You can find me on : [Smoth Web site](https://smothweb.com), eymen@smothweb.com,
 
 ![email](https://i.ibb.co/vq2b5bj/Frame-55.jpg)
 
-**if you press <kbd>ctrl</kbd> <kbd>L</kbd> nothink gonna happen**
-​‣ FusionCharts  
-  ​‣ Textblock  
-  ​‣ Uppy  
-  ​‣ Tone.js   
-  ​‣ Editor.js   
-  ​‣ lax.js   
-  ​‣ typelt   
-  ​‣ iro.js   
-  ​‣ Cleave.js   
-  ​‣ Freezeframe.js   
-  ​‣ darkmode.js   
-  ​‣ Scene.js   
-  ​‣ Overlay   
-  ​‣ Scrollbars    
-  ​‣ MailtoUI   
-  ​‣ FullScreen Slider
-  ​‣ pagemap    
-  ​‣ Chart.xkcd    
-  ​‣ GPickr    
-  ​‣ Moveable    
-  ​‣ Cube.js    
-  ​‣ simpleParallax    
-  ​‣ Bounds.js    
-  ​‣ Creepyface    
-  ​‣ LegraJS    
-  ​‣ Paged.js    
-  ​‣ Focus    
-  ​‣ Overlay    
-  ​‣ Flowy    
-  ​‣ Choreographer-js   
-  ​‣  Leaflet.js    
-  ​‣ Lory    
-  ​‣ CurrencyFormatter.js    
-  ​‣ Shave.js    
-  ​‣ ScrollReveal   
-  ​‣ Bricks.js    
-  ​‣ MediumEditor    
-  ​‣ Substance    
-  ​‣ List.js    
-  ​‣ Popper.js    
-  ​‣ InlineTweet.js    
-  ​‣ SweetAlert2    
-  ​‣ Force.js    
-  ​‣ Push.js    
-  ​‣ Bideo.js    
-  ​‣ algolia search     
-  ​‣ anime.js
+** NOTE : if you press <kbd>ctrl</kbd> <kbd>L</kbd> nothing gonna happen**
