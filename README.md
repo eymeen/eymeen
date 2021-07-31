@@ -54,10 +54,12 @@ CSS frameworks 🠪
  ‣ `Sematic-UI`
  
  
-<details>
-  <summary>Plugins I use :</summary>
+ [//]: <> (<details>)
+ [//]: <> (<summary>Plugins I use :</summary>)
   
-  ## CSS plugins 
+  
+# Plugins I use 
+  ### in CSS
   1. Switchery
   2. Simptip 
   3. CSS Mac Plus
@@ -66,7 +68,7 @@ CSS frameworks 🠪
   6. CSS Newton CSS Text filling with water
   7. Circles
   
-  ## JS plugins
+  ### in JS
   1. FusionCharts
   2. Textblock  
   3. Uppy  
@@ -114,7 +116,7 @@ CSS frameworks 🠪
   45. Bideo.js    
   46. algolia search     
   47. anime.js
-</details>
+
 
 # Current Status
 
