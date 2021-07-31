@@ -11,97 +11,110 @@ programming and developing. I have graphic design background but I'm not a **gra
 # My Capabilities 
 I know the basics `HTML`, `CSS` and `JS`, I created too many project **only** with these three languages so I can create very complex projects with them
 
-but I also talented in `React`, `Jquery`, `bootstrap`, `UIkit`, _and currently learning_ `vue.js`
+but I'm also talented in `React`, `Jquery`, `bootstrap`, `UIkit`, _and currently learning_ `vue.js`
 
 
 I use `PHP`, `MySQL`, and `MongoDB` for back-end 
-<details>
-  <summary>I can do</summary>
-  1. API
-  2. SEO
-  3. Ads in websites, blogs, and e-commerce
-  4. Convert SVG (vector) icons to Webfont.
-  5. Customizing links in `.htaccess` file.
-  6. Developing bot that sends & gets data with other applications
-  7. Customize ads on the sites.
-  8. Design systems
-  9. Website templates
-  10. From Figma to website
-  11. Prototyping
-  12. User Interface ( typography, colors, effects, etc... )
-</details>
+
+### skills:
+1. API
+2. SEO
+3. Ads in websites, blogs, and e-commerce
+4. Convert SVG (vector) icons to Webfont.
+5. Customizing links in `.htaccess` file.
+6. Developing bot that sends & gets data with other applications
+7. Customize ads on the sites.
+8. Design systems
+9. Website templates
+10. From Figma to website
+11. Prototyping
+12. User Interface ( typography, colors, effects, etc... )
 
 
 I use these technologies/languages 🠪
- ‣ PHP
- ‣ MySql
- ‣ REACT
- ‣ Mongo DB
- ‣ JavaScript
- ‣ HTML
- ‣ CSS
- ‣ Web3.js
- ‣ JQuery
- ‣ JSON
- ‣ AJAX
+ ‣ `PHP`
+ ‣ `MySql`
+ ‣ `REACT`
+ ‣ `Mongo DB`
+ ‣ `JavaScript`
+ ‣ `HTML`
+ ‣ `CSS`
+ ‣ `Web3.js`
+ ‣ `JQuery`
+ ‣ `JSON`
+ ‣ `AJAX`
 
 CSS frameworks 🠪
- ‣ Material-UI
- ‣ Bootstrap
- ‣ UI kit
- ‣ Ant design
- ‣ CSS tailwind
- ‣ Bulma
- ‣ Sematic-UI
-
-I use these plugins :
- 1. FusionCharts
- 2. Textblock  
- 3. Uppy  
- 4. Tone.js   
- 5. Editor.js   
- 6. lax.js   
- 7. typelt   
- 8. iro.js   
- 9. Cleave.js   
- 10. Freezeframe.js   
- 11. darkmode.js   
- 12. Scene.js   
- 13. Overlay   
- 14. Scrollbars    
- 15. MailtoUI   
- 16. FullScreen Slider
- 17. pagemap    
- 18. Chart.xkcd    
- 19. GPickr    
- 20. Moveable    
- 21. Cube.js    
- 22. simpleParallax    
- 23. Bounds.js    
- 24. Creepyface    
- 25. LegraJS    
- 26. Paged.js    
- 27. Focus    
- 28. Overlay    
- 29. Flowy    
- 30. Choreographer-js   
- 31. Leaflet.js    
- 32. Lory    
- 33. CurrencyFormatter.js    
- 34. Shave.js    
- 35. ScrollReveal   
- 36. Bricks.js    
- 37. MediumEditor    
- 38. Substance    
- 39. List.js    
- 40. Popper.js    
- 41. InlineTweet.js    
- 42. SweetAlert2    
- 43. Force.js    
- 44. Push.js    
- 45. Bideo.js    
- 46. algolia search     
- 47. anime.js
+ ‣ `Material-UI`
+ ‣ `Bootstrap`
+ ‣ `UI kit`
+ ‣ `Ant design`
+ ‣ `CSS tailwind`
+ ‣ `Bulma`
+ ‣ `Sematic-UI`
+ 
+ 
+<details>
+  <summary>Plugins I use :</summary>
+  
+  ## CSS plugins 
+  1. Switchery
+  2. Simptip 
+  3. CSS Mac Plus
+  4. SpinKit
+  5. Stereoscopic
+  6. CSS Newton CSS Text filling with water
+  7. Circles
+  
+  ## JS plugins
+  1. FusionCharts
+  2. Textblock  
+  3. Uppy  
+  4. Tone.js   
+  5. Editor.js   
+  6. lax.js   
+  7. typelt   
+  8. iro.js   
+  9. Cleave.js   
+  10. Freezeframe.js   
+  11. darkmode.js   
+  12. Scene.js   
+  13. Overlay   
+  14. Scrollbars    
+  15. MailtoUI   
+  16. FullScreen Slider
+  17. pagemap    
+  18. Chart.xkcd    
+  19. GPickr    
+  20. Moveable    
+  21. Cube.js    
+  22. simpleParallax    
+  23. Bounds.js    
+  24. Creepyface    
+  25. LegraJS    
+  26. Paged.js    
+  27. Focus    
+  28. Overlay    
+  29. Flowy    
+  30. Choreographer-js   
+  31. Leaflet.js    
+  32. Lory    
+  33. CurrencyFormatter.js    
+  34. Shave.js    
+  35. ScrollReveal   
+  36. Bricks.js    
+  37. MediumEditor    
+  38. Substance    
+  39. List.js    
+  40. Popper.js    
+  41. InlineTweet.js    
+  42. SweetAlert2    
+  43. Force.js    
+  44. Push.js    
+  45. Bideo.js    
+  46. algolia search     
+  47. anime.js
+</details>
 
 # Current Status
 
