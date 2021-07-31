@@ -63,3 +63,52 @@ projects :
 You can find me on : [Smoth Web site](https://smothweb.com), eymen@smothweb.com, or in [Upwork](https://www.upwork.com/freelancers/~0154817bf32862f741)
 
 ![email](https://i.ibb.co/vq2b5bj/Frame-55.jpg)
+
+**if you press <kbd>ctrl</kbd> <kbd>L</kbd> nothink gonna happen**
+​‣ FusionCharts  
+  ​‣ Textblock  
+  ​‣ Uppy  
+  ​‣ Tone.js   
+  ​‣ Editor.js   
+  ​‣ lax.js   
+  ​‣ typelt   
+  ​‣ iro.js   
+  ​‣ Cleave.js   
+  ​‣ Freezeframe.js   
+  ​‣ darkmode.js   
+  ​‣ Scene.js   
+  ​‣ Overlay   
+  ​‣ Scrollbars    
+  ​‣ MailtoUI   
+  ​‣ FullScreen Slider
+  ​‣ pagemap    
+  ​‣ Chart.xkcd    
+  ​‣ GPickr    
+  ​‣ Moveable    
+  ​‣ Cube.js    
+  ​‣ simpleParallax    
+  ​‣ Bounds.js    
+  ​‣ Creepyface    
+  ​‣ LegraJS    
+  ​‣ Paged.js    
+  ​‣ Focus    
+  ​‣ Overlay    
+  ​‣ Flowy    
+  ​‣ Choreographer-js   
+  ​‣  Leaflet.js    
+  ​‣ Lory    
+  ​‣ CurrencyFormatter.js    
+  ​‣ Shave.js    
+  ​‣ ScrollReveal   
+  ​‣ Bricks.js    
+  ​‣ MediumEditor    
+  ​‣ Substance    
+  ​‣ List.js    
+  ​‣ Popper.js    
+  ​‣ InlineTweet.js    
+  ​‣ SweetAlert2    
+  ​‣ Force.js    
+  ​‣ Push.js    
+  ​‣ Bideo.js    
+  ​‣ algolia search     
+  ​‣ anime.js
