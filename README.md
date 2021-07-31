@@ -151,5 +151,5 @@ You can find me on : [Smoth Web site](https://smothweb.com), eymen@smothweb.com,
 
 ![email](https://i.ibb.co/vq2b5bj/Frame-55.jpg)
 
-** NOTE : if you press <kbd>ctrl</kbd> <kbd>L</kbd> nothing gonna happen**
-{"mode":"full","isActive":false}
+**NOTE : if you press <kbd>ctrl</kbd> <kbd>L</kbd> nothing gonna happen**
+
