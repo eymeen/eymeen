@@ -1,14 +1,14 @@
 <div align="center">
- <a href="https://www.upwork.com/workwith/eymen" title="upwork" alt="upwork">
+ <a href="https://www.upwork.com/workwith/eymen" target="_blank" title="upwork" alt="upwork">
   <img src="/upwork.png">
  </a>
- <a href="https://facebook.com/smothweb" title="facebook" alt="facebook">
+ <a href="https://facebook.com/smothweb" target="_blank" title="facebook" alt="facebook">
   <img src="/facebook.png">
  </a>
- <a href="https://instagram.com/smothweb" title="instagram" alt="instagram">
+ <a href="https://instagram.com/smothweb" target="_blank" title="instagram" alt="instagram">
   <img src="/instagram.png">
  </a>
- <a href="https://linktr.ee/smothweb" title="linktree" alt="linktree">
+ <a href="https://linktr.ee/smothweb" target="_blank" title="linktree" alt="linktree">
   <img src="/linktree.png">
  </a>
 </div>
