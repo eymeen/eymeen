@@ -10,6 +10,7 @@ programming and developing. I have graphic design background but I'm not a **gra
 
 
 <h1 align="center">My Capabilities</h1>
+
 I know the basics `HTML`, `CSS` and `JS`, I created too many project **only** with these three languages so I can create very complex projects with them
 
 but I'm also talented in `React`, `Jquery`, `bootstrap`, `UIkit`, _and currently learning_ `vue.js`
