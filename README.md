@@ -2,7 +2,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eymeen&margin-w=8" alt="nolimits4web" /></a> </p> -->
 
 Hi,\
-I'm Eymen, The founder of [Smoth Web](https://github.com/eymeen/mij3us/blob/main/eymen.md#smoth-web) team, I'm web developer specilaized in React and PHP,\
+I'm Eymen, The founder of [Smoth Web](https://github.com/eymeen/#smoth-web) team, I'm web developer specilaized in React and PHP,\
 but my skills doesn't end here because I know more and I'll learn more 
 
 I’m interested in everything related in web designing,\
