@@ -1,4 +1,4 @@
-# About Me
+<h1 align="center">About Me</h1>
 
 Hi,\
 I'm Eymen, The founder of [Smoth Web](https://github.com/eymeen/mij3us/blob/main/eymen.md#smoth-web) team, I'm web developer specilaized in React and PHP,\
@@ -8,7 +8,7 @@ I’m interested in everything related in web designing,\
 programming and developing. I have graphic design background but I'm not a **graphic designer**
 
 
-# My Capabilities 
+<h1 align="center">My Capabilities</h1>
 I know the basics `HTML`, `CSS` and `JS`, I created too many project **only** with these three languages so I can create very complex projects with them
 
 but I'm also talented in `React`, `Jquery`, `bootstrap`, `UIkit`, _and currently learning_ `vue.js`
@@ -58,7 +58,7 @@ CSS frameworks 🠪
  [//]: <> (<summary>Plugins I use :</summary>)
   
   
-# Plugins I use 
+<h1 align="center">Plugins I use</h1>
   ### in CSS
   1. Switchery
   2. Simptip 
@@ -118,7 +118,7 @@ CSS frameworks 🠪
   47. anime.js
 
 
-# Current Status
+<h1 align="center">Current Status</h1>
 
 I’m currently learning `vue.js` and upgrading my skills in `OOP`, `SEO`, and `UI/UX`.
 
@@ -128,12 +128,12 @@ I'm planing to learn :
  3. `cordova` for creating phone applications with web languages
  
  
-# Smoth web
+<h1 align="center">Smoth web</h1>
 
 ### what is smothweb
 Smoth web is team of web developers, UI/UX designers and logo designers that workin to make the web easier for both of user and developer 
 
-projects :
+**Projects** :
   ### 1. Modular + 
    modular +, modular.plus or mdp is a customizable css framework,
    we developing now figma plugin, and website for customizing the framework, and also is customizable from .mdp file (modular's JSON file)
@@ -145,7 +145,7 @@ projects :
    
 <!--   ### 3. components generator website -->
 
-# Contact Me
+<h1 align="center">Contact Me</h1>
 
 You can find me on : [Smoth Web site](https://smothweb.com), eymen@smothweb.com, or in [Upwork](https://www.upwork.com/freelancers/~0154817bf32862f741)
 
