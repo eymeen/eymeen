@@ -20,9 +20,6 @@ Now: I'm learning `DevOps` skills
 ![](https://www.linkpicture.com/q/Frame-80.png)
 ![](https://www.linkpicture.com/q/Frame-81.png)
 ![](https://www.linkpicture.com/q/Frame-82.png)
-
-
-
 ![](https://www.linkpicture.com/q/Frame-83.png)
 ![](https://www.linkpicture.com/q/Frame-84.png)
 ![](https://www.linkpicture.com/q/Frame-103.png)
@@ -33,9 +30,6 @@ Now: I'm learning `DevOps` skills
 ![](https://www.linkpicture.com/q/Frame-90.png)
 ![](https://www.linkpicture.com/q/Frame-91.png)
 ![](https://www.linkpicture.com/q/Frame-92.png)
-
-
-
 ![](https://www.linkpicture.com/q/Frame-93.png)
 ![](https://www.linkpicture.com/q/Frame-94.png)
 ![](https://www.linkpicture.com/q/Frame-95.png)
