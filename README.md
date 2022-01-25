@@ -50,66 +50,50 @@ Now: I'm learning `DevOps` skills
  
 ### Modular 
 
-.
-.
-.
+Modular is drag&drop website builder
 
 ![](https://i.stack.imgur.com/qKytW.png)
 
 ### Code Tutorials
 
-.
-.
-.
+blog for toturing code stuff
 
 ![](https://i.stack.imgur.com/Bs5s1.png)
 
 ### ASCT.me
 
-.
-.
-.
+website to publish universities', scholarships', YOS exams' news and very greate article about MATH studying
 
 [![Modicons](https://i.stack.imgur.com/JwQOk.png)](https://www.figma.com/proto/aTs8LbHWdEFPrHEqODfoUG/Modular-Services---WebUp?node-id=38%3A4725&scaling=scale-down-width&page-id=3%3A7673&hide-ui=1)
 
 ### Modicons
 
-.
-.
-.
+icons' github, a website for publishing icon packs
 
 [![deneme](https://i.stack.imgur.com/F4XXG.png)]()
 
 ### Deneme
 
-.
-.
-.
+paid e-exam website
 
 [![taptok](https://i.stack.imgur.com/4Wwq1.png)](https://beta.tt.social/)
 
 ### TapTok Business
 
-.
-.
-.
+SaaS & product panel website 
 
 
 [![bpazar](https://i.stack.imgur.com/JJMF6.png)](https://bpazar.com/)
 
 ### Bpazar
 
-.
-.
-.
+E-shop
 
 [![shifaa](https://i.stack.imgur.com/HG2tc.png)](https://shifaa-fmt.github.io/shifaa/)
 
 ### Shifaa
 
-.
-.
-.
+medical tourism portfolio
 
 
 
