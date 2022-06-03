@@ -18,14 +18,10 @@ Now: I'm learning `DevOps` skills
 ![](https://www.linkpicture.com/q/Frame-75.png)
 ![](https://www.linkpicture.com/q/Frame-76.png)
 ![](https://www.linkpicture.com/q/Frame-77.png)
-![](https://www.linkpicture.com/q/Frame-78.png)
 ![](https://www.linkpicture.com/q/Frame-79.png)
 ![](https://www.linkpicture.com/q/Frame-80.png)
-![](https://www.linkpicture.com/q/Frame-81.png)
 ![](https://www.linkpicture.com/q/Frame-82.png)
 ![](https://www.linkpicture.com/q/Frame-83.png)
-![](https://www.linkpicture.com/q/Frame-84.png)
-![](https://www.linkpicture.com/q/Frame-103.png)
 ![](https://www.linkpicture.com/q/Frame-86.png)
 ![](https://www.linkpicture.com/q/Frame-87.png)
 ![](https://www.linkpicture.com/q/Frame-88.png)
@@ -38,11 +34,16 @@ Now: I'm learning `DevOps` skills
 ![](https://www.linkpicture.com/q/Frame-95.png)
 ![](https://www.linkpicture.com/q/Frame-96.png)
 ![](https://www.linkpicture.com/q/Frame-97.png)
-![](https://www.linkpicture.com/q/Frame-98.png)
-![](https://www.linkpicture.com/q/Frame-99.png)
-![](https://www.linkpicture.com/q/Frame-100.png)
 ![](https://www.linkpicture.com/q/Frame-101.png)
 ![](https://www.linkpicture.com/q/Frame-102.png)
+
+<!-- ![](https://www.linkpicture.com/q/Frame-78.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-81.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-84.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-103.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-98.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-99.png) -->
+<!-- ![](https://www.linkpicture.com/q/Frame-100.png) -->
 <!-- ![](https://www.linkpicture.com/q/Frame-85.png) -->
 
 ## My Lovely Projects
