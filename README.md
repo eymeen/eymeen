@@ -1,41 +1,41 @@
 ![](https://i.stack.imgur.com/DnbXT.png)
 ![](https://i.stack.imgur.com/PcAQm.png)
 
+A full-stack web designer-developer from **Syria**, I enjoy doing projects with pure PHP, Laravel, Vue.js, and vanilla Javascript.
+I'm interested in AI, Math, Psychology, Arabic literature, and UX/UI trends. I'm (as a student) studying SAT, ACT, and IELTS and planning to take some AP classes.
 
-A full-stack web developer and **UI/UX** designer from **Syria**, I enjoy working in **tall stack**, **MERN stack**, **MEVN stack**.\
-I like **CODE**, Psychology, Math, Languages, Arabic literature, and creative UI design.
-also, I'm a nerd SAT student.
 
-Now: I'm learning `DevOps` skills
+<!-- Now: I'm learning `DevOps` skills -->
 
 <!-- <a align="center" href="https://stackoverflow.com/users/18001301/sarout"><img src="https://stackoverflow.com/users/flair/18001301.png?theme=dark" width="208" height="58" title="my StackOverflow"></a> -->
 
 
-## Skills (stuff I'm good in)
-![](https://www.linkpicture.com/q/Frame-72.png)
-![](https://www.linkpicture.com/q/Frame-73.png)
-![](https://www.linkpicture.com/q/Frame-74.png)
-![](https://www.linkpicture.com/q/Frame-75.png)
-![](https://www.linkpicture.com/q/Frame-76.png)
-![](https://www.linkpicture.com/q/Frame-77.png)
-![](https://www.linkpicture.com/q/Frame-79.png)
-![](https://www.linkpicture.com/q/Frame-80.png)
-![](https://www.linkpicture.com/q/Frame-82.png)
-![](https://www.linkpicture.com/q/Frame-83.png)
-![](https://www.linkpicture.com/q/Frame-86.png)
-![](https://www.linkpicture.com/q/Frame-87.png)
-![](https://www.linkpicture.com/q/Frame-88.png)
+## Skills
+JS             ...    ... ... ...   
+![JavaScript](https://www.linkpicture.com/q/Frame-72.png)
+![html](https://www.linkpicture.com/q/Frame-73.png)
+![css](https://www.linkpicture.com/q/Frame-74.png)
+![figma](https://www.linkpicture.com/q/Frame-75.png)
+![mysql](https://www.linkpicture.com/q/Frame-76.png)
+![UIkit](https://www.linkpicture.com/q/Frame-77.png)
+![laravel](https://www.linkpicture.com/q/Frame-79.png)
+![PHP](https://www.linkpicture.com/q/Frame-80.png)
+![materialUI](https://www.linkpicture.com/q/Frame-82.png)
+![tailwind](https://www.linkpicture.com/q/Frame-83.png)
+![sass](https://www.linkpicture.com/q/Frame-86.png)
+![postgreSQL](https://www.linkpicture.com/q/Frame-87.png)
+![vue](https://www.linkpicture.com/q/Frame-88.png)
 ![](https://www.linkpicture.com/q/Frame-89.png)
-![](https://www.linkpicture.com/q/Frame-90.png)
-![](https://www.linkpicture.com/q/Frame-91.png)
-![](https://www.linkpicture.com/q/Frame-92.png)
+![antdesign](https://www.linkpicture.com/q/Frame-90.png)
+![treejack](https://www.linkpicture.com/q/Frame-91.png)
+![bulma](https://www.linkpicture.com/q/Frame-92.png)
 ![](https://www.linkpicture.com/q/Frame-93.png)
 ![](https://www.linkpicture.com/q/Frame-94.png)
 ![](https://www.linkpicture.com/q/Frame-95.png)
 ![](https://www.linkpicture.com/q/Frame-96.png)
-![](https://www.linkpicture.com/q/Frame-97.png)
-![](https://www.linkpicture.com/q/Frame-101.png)
-![](https://www.linkpicture.com/q/Frame-102.png)
+![bootstrap](https://www.linkpicture.com/q/Frame-97.png)
+![semantic UI](https://www.linkpicture.com/q/Frame-101.png)
+![jQuery](https://www.linkpicture.com/q/Frame-102.png)
 
 <!-- ![](https://www.linkpicture.com/q/Frame-78.png) -->
 <!-- ![](https://www.linkpicture.com/q/Frame-81.png) -->
