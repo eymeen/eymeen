@@ -8,7 +8,7 @@ also, I'm a nerd SAT student.
 
 Now: I'm learning `DevOps` skills
 
-<a align="center" href="https://stackoverflow.com/users/18001301/sarout"><img src="https://stackoverflow.com/users/flair/18001301.png?theme=dark" width="208" height="58" title="my StackOverflow"></a>
+<!-- <a align="center" href="https://stackoverflow.com/users/18001301/sarout"><img src="https://stackoverflow.com/users/flair/18001301.png?theme=dark" width="208" height="58" title="my StackOverflow"></a> -->
 
 
 ## Skills (stuff I'm good in)
