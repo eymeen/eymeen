@@ -11,7 +11,6 @@ I'm interested in AI, Math, Psychology, Arabic literature, and UX/UI trends. I'm
 
 
 ## Skills
-JS             ...    ... ... ...   
 ![JavaScript](https://www.linkpicture.com/q/Frame-72.png)
 ![html](https://www.linkpicture.com/q/Frame-73.png)
 ![css](https://www.linkpicture.com/q/Frame-74.png)
