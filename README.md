@@ -21,7 +21,6 @@ I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and
 ![GraphQL](./skills/graphql.svg)
 ![Nuxt.js](./skills/nuxtjs.svg)
 ![Astro](./skills/astro.svg)
-![Remix](./skills/remix.svg)
 ![gRPC](./skills/grpc.svg)
 ![NPM](./skills/npm.svg)
 ![Firebase](./skills/firebase.svg)
@@ -29,6 +28,7 @@ I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and
 ![Linux](./skills/linux.svg)
 ![Figma](./skills/figma.svg)
 ![Docker](./skills/docker.svg)
+<!-- ![Remix](./skills/remix.svg) -->
 <!-- ![Eleventy](./skills/eleventy.svg) -->
 <!-- ![Sapper](./skills/sapper.svg) -->
 
