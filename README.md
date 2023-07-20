@@ -27,7 +27,7 @@ I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and
 ![git](./skills/git.svg)
 ![Linux](./skills/linux.svg)
 ![Figma](./skills/figma.svg)
-![Docker](./skills/docker.svg)
+![Docker](./skills/docker.svg), I've created the most productive, modern and easy-to-code teck stack called SAM (check on [StackShare](https://stackshare.io/eymen/sam)).
 <!-- ![Remix](./skills/remix.svg) -->
 <!-- ![Eleventy](./skills/eleventy.svg) -->
 <!-- ![Sapper](./skills/sapper.svg) -->
