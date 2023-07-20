@@ -1,29 +1,37 @@
 **Assalamu Alaykum** 👋
 ### Coding
-I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and laraWare), UX/UI Designer, and a Beginner Ethical Hacker. Skills: [JavaScript](./skills/javascript.png)
-[TypeScript](./skills/typescript.png)
-[PHP](./skills/php.png)
-[Node](./skills/node.png)
-[Laravel](./skills/laravel.png)
-[Vue](./skills/vue.png)
-[Svelte](./skills/svelte.png)
-[ExpressJS](./skills/expressjs.png)
-[PostgreSQL](./skills/postgresql.png)
-[MySQL](./skills/mysql.png)
-[MongoDB](./skills/mongodb.png)
-[Redis](./skills/redis.png)
-[tailwind](./skills/tailwind.png)
-[Pinia](./skills/pinia.png)
-[Storybook JS](./skills/storybookjs.png)
-[Alpine.js](./skills/alpinejs.png)
-[jQuery](./skills/jquery.png)
-[Eleventy](./skills/eleventy.png)
-[GraphQL](./skills/graphql.png)
-[TypeScript Nuxt.js](./skills/typescript-nuxtjs.png)
-[Astro](./skills/astro.png)
-[Sapper](./skills/sapper.png)
-[Remix](./skills/remix.png)
-[gRPC](./skills/grpc.png)
+I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and laraWare), UX/UI Designer, and a Beginner Ethical Hacker. Skills: 
+[JavaScript](./skills/javascript.svg)
+[TypeScript](./skills/typescript.svg)
+[PHP](./skills/php.svg)
+[Node](./skills/node.svg)
+[Laravel](./skills/laravel.svg)
+[Vue](./skills/vue.svg)
+[Svelte](./skills/svelte.svg)
+[ExpressJS](./skills/expressjs.svg)
+[PostgreSQL](./skills/postgresql.svg)
+[MySQL](./skills/mysql.svg)
+[MongoDB](./skills/mongodb.svg)
+[Redis](./skills/redis.svg)
+[tailwind](./skills/tailwind.svg)
+[Pinia](./skills/pinia.svg)
+[Storybook JS](./skills/storybookjs.svg)
+[Alpine.js](./skills/alpinejs.svg)
+[jQuery](./skills/jquery.svg)
+<!-- [Eleventy](./skills/eleventy.svg) -->
+[GraphQL](./skills/graphql.svg)
+[Nuxt.js](./skills/nuxtjs.svg)
+[Astro](./skills/astro.svg)
+<!-- [Sapper](./skills/sapper.svg) -->
+[Remix](./skills/remix.svg)
+[gRPC](./skills/grpc.svg)
+[NPM](./skills/npm.svg)
+[Firebase](./skills/firebase.svg)
+[git](./skills/git.svg)
+[Linux](./skills/linux.svg)
+[Figma](./skills/figma.svg)
+[Docker](./skills/docker.svg)
+
 
 ### Me
 I'm Eymen, from Syrian, I use PC min 8 hours daily since I was 4 years old, I'm -proudly- the tech guy of my friends and family. I love boxing, muaythai and anything helps in real fights. I love running too, my only source of happiness after Quran. I'm also interested in Arabic litrature and human psychology, I'm just good at them with no effort. \
@@ -42,7 +50,9 @@ coming to highschool, I've studied in the wrost highschool, at least in my city.
 while I'm 11th, I decided to run away from Turkey by studying in the USA, I studied for the SAT and I've got accepted in Tufts University, didn't travel to USA for some personal and governmental reasons
 
 ### Me, in numbers
-SAT score: 1480 
-Chess ELO (I'm retired): 1655 (rapid)
-IQ: 148
+|What|Number|
+|---|---|
+| SAT score | 1480 |
+| Chess ELO (I'm retired) | 1655 (rapid) |
+| IQ | 148 |
 
