@@ -81,13 +81,28 @@ https://patorjk.com/software/taag/
 └─(12:00:02)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+└─(12:00:02)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
+1. Modular Backend
+2. SAM Stack (https://stackshare.io/eymen/sam).
+3. Modular Visual Panel
+4. ... (there's more but still private)
+
+┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:03)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
+I ...
  
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:03)──○ grep -i contact info.txt                                                     ○──(Fri,Mar18)─┘
+🔗: https://linktr.ee/eymeen
+📷: @deveymen
+🤙🏻: +905384600675
+📧: eymeneid@gmail.com
+💼: https://upwork.com/users/eymen
+𝕏 : https://x.com/eymen_eid
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:03)──○ pwd                                                                          ○──(Fri,Mar18)─┘
+practicing algorithms and data structures
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:03)──○ date                                                                         ○──(Fri,Mar18)─┘
@@ -125,11 +140,7 @@ I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and
 ![Figma](./skills/figma.svg)
 ![Docker](./skills/docker.svg)
 
-### Software Projects
-1. Modular Backend
-2. SAM Stack (check on [StackShare](https://stackshare.io/eymen/sam)).
-3. Modular Visual Panel
-4. ... (there's more but still private)
+
 
 <!-- ![Remix](./skills/remix.svg) -->
 <!-- ![Eleventy](./skills/eleventy.svg) -->
