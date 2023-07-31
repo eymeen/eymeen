@@ -41,12 +41,12 @@ https://patorjk.com/software/taag/
 
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:01)──○ eymen --whoishe                                                              ○──(Fri,Mar18)─┘
+└─(12:00:02)──○ eymen --whoishe                                                              ○──(Fri,Mar18)─┘
 I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and laraWare), UX/UI Designer,
 and a Beginner Ethical Hacker.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:02)──○ eymen --info                                                                 ○──(Fri,Mar18)─┘
+└─(12:00:03)──○ eymen --info                                                                 ○──(Fri,Mar18)─┘
 I'm Eymen, from Syrian, I use Computer min 8 hours daily since I was 4 years old, I'm -proudly-
 the tech guy of my friends and family. I love boxing, Muaythai, and anything that helps in real fights.
 I love running too, my only source of happiness after the Holy Quran. I'm also interested in Arabic literature
@@ -55,13 +55,12 @@ escaping techniques, breaking into locked stuff, surviving extremely harsh envir
 you can say, real-life hacking.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:03)──○ eymen --education                                                            ○──(Fri,Mar18)─┘
+└─(12:00:04)──○ eymen --education                                                            ○──(Fri,Mar18)─┘
 I've got accepted into Tufts University, CompSci, class of 2027. But couldn't travel out there for some
 reasons, and not thinking to join college anymore.
 
-
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:04)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
+└─(12:00:05)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
 ⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel   ⚙ Vue
 ⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB   ⚙ Redis
 ⚙ tailwind    ⚙ Pinia      ⚙ Storybook  ⚙ Alpine.js  ⚙ jQuery    ⚙ GraphQL
@@ -69,18 +68,18 @@ reasons, and not thinking to join college anymore.
 ⚙ Linux       ⚙ Figma      ⚙ Docker
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:05)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
+└─(12:00:06)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
 1. Modular Backend
 2. SAM Stack (https://stackshare.io/eymen/sam).
 3. Modular Visual Panel
 4. ... (there's more but still private)
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:06)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
+└─(12:00:07)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
 I ...
  
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:07)──○ grep -i contact info.txt                                                     ○──(Fri,Mar18)─┘
+└─(12:00:08)──○ grep -i contact info.txt                                                     ○──(Fri,Mar18)─┘
 🔗: https://linktr.ee/eymeen
 📷: @deveymen
 🤙🏻: +905384600675
@@ -89,12 +88,12 @@ I ...
 𝕏 : https://x.com/eymen_eid
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:08)──○ pwd                                                                          ○──(Fri,Mar18)─┘
+└─(12:00:09)──○ pwd                                                                          ○──(Fri,Mar18)─┘
 practicing algorithms and data structures
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:09)──○ date                                                                         ○──(Fri,Mar18)─┘
-Mon Jul 31 12:00:09 +03 2023
+└─(12:00:10)──○ date                                                                         ○──(Fri,Mar18)─┘
+Mon Jul 31 12:00:10 +03 2023
                                         
 ```
 <div align="center">
