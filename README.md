@@ -98,14 +98,13 @@ Mon Jul 31 12:00:09 +03 2023
                                         
 ```
 <div align="center">
-Join the <b> Web Geeks Community </b> from here 👇
-<br>
-  <a href="https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
+ <h3>Web Geeks</h3>
+  <a href="https://github.com/webducks/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   <a href="https://discord.gg/QHBPq6xP5p">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  <a href="https://t.me/thecyberw0rld">
+  </a>  <a href="https://t.me/webgeeks">
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
