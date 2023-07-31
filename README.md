@@ -1,4 +1,4 @@
-#### **Assalamu Alaykum** 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum%F0%9F%92%99%F0%9F%92%99%F0%9F%AB%82;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 
 <!--
 READ THIS:
@@ -11,6 +11,7 @@ https://patorjk.com/software/taag/
 6. Big Money-ne            
 7. Doh
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
@@ -96,6 +97,55 @@ practicing algorithms and data structures
 Mon Jul 31 12:00:09 +03 2023
                                         
 ```
+<div align="center">
+Join the <b> Web Geeks Community </b> from here 👇
+<br>
+  <a href="https://github.com/thecyberworld/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+  </a> 
+  <a href="https://discord.gg/QHBPq6xP5p">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white">
+  </a>  <a href="https://t.me/thecyberw0rld">
+    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+
+<div align="center">
+Connect with me on <b>social media</b>:
+<br>
+   <a href="http://linktr.ee/eymeen">
+     <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
+   </a>
+   
+   <a href="http://instagram.com/eymen.dev">
+     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
+   </a>
+   
+   <a href="https://www.codewars.com/users/eymxn">
+     <img src="https://img.shields.io/badge/Codewars-0d1117?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
+   </a>
+   
+   <a href="https://www.upwork.com">
+     <img src="https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+   </a>
+   
+   <a href="http://instagram.com/eymen.dev">
+     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+   </a>
+   
+   <a href="http://figma.com/@eymen">
+     <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+   </a>
+   
+   <a href="https://linkedin.com/eymeen">
+     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   </a>
+   
+   <a href="https://linkedin.com/eymeen">
+     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   </a>
+
+</div>
 
 
 
