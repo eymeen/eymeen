@@ -109,7 +109,7 @@ Mon Jul 31 12:00:10 +03 2023
 </div>
 
 <div align="center">
-Connect with me on <b>social media</b>:
+My Accounts:
 <br>
    <a href="http://linktr.ee/eymeen">
      <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
