@@ -1,5 +1,9 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum%F0%9F%92%99%F0%9F%92%99%F0%9F%AB%82;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></p>
 
+> [!NOTE]  
+> Most of my public repositories are moved to [@webducks](https://github.com/webducks) clan!
+
+
 <!--
 READ THIS:
 https://patorjk.com/software/taag/
