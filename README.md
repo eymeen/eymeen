@@ -109,7 +109,7 @@ Mon Jul 31 12:00:10 +03 2023
   </a> 
   <a href="https://discord.gg/QHBPq6xP5p">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  <a href="https://t.me/webgeeks">
+  </a>  <a href="https://discord.com/invite/hPgB5pVJBj">
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
