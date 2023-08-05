@@ -3,6 +3,8 @@
 > [!NOTE]  
 > Most of my public repositories are moved to [@webducks](https://github.com/webducks) clan!
 
+> [!NOTE]  
+> You'll notice that I have 0 contributions on Fridays after August 2023. See why I did that and the importance of doing it [**here**](https://github.com/eymeen/friday)
 
 <!--
 READ THIS:
