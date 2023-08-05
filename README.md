@@ -107,9 +107,10 @@ Mon Jul 31 12:00:10 +03 2023
   <a href="https://github.com/webducks/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a> 
-  <a href="https://discord.gg/QHBPq6xP5p">
+  <a href="https://discord.gg/hPgB5pVJBj">
     <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  <a href="https://discord.com/invite/hPgB5pVJBj">
+  </a>  
+  <a href="https://t.me/websgeeks">
     <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
