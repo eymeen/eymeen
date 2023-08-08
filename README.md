@@ -6,6 +6,9 @@
 > [!NOTE]  
 > You'll notice that I have 0 contributions on Fridays after August 2023. See why I did that and the importance of doing it [**here**](https://github.com/eymeen/friday)
 
+> [!NOTE]  
+> I've joined github in 2017, all the previous years are just drawings and not real commits
+
 <!--
 READ THIS:
 https://patorjk.com/software/taag/
