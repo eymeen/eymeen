@@ -1,10 +1,8 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum%F0%9F%92%99%F0%9F%92%99%F0%9F%AB%82;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></p>
-
+<!--
 > [!NOTE]  
 > Most of my public repositories are moved to [@webducks](https://github.com/webducks) clan!
-
-> [!NOTE]  
-> You'll notice that I have 0 contributions on Fridays after August 2023. See why I did that and the importance of doing it [**here**](https://github.com/eymeen/friday)
+-->
 
 > [!NOTE]  
 > I've joined github in 2017, all the previous years are just drawings and not real commits
@@ -105,6 +103,9 @@ practicing algorithms and data structures
 Mon Jul 31 12:00:10 +03 2023
                                         
 ```
+> [!NOTE]  
+> You'll notice that I have 0 contributions on Fridays after August 2023. See why I did that and the importance of doing it [**here**](https://github.com/eymeen/friday)
+
 <div align="center">
  <h3>Web Geeks</h3>
   <a href="https://github.com/webducks/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
