@@ -64,15 +64,15 @@ you can say, real-life hacking.
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:04)──○ eymen --education                                                            ○──(Fri,Mar18)─┘
 I've got accepted into Tufts University, CompSci, class of 2027. But couldn't travel out there for some
-reasons, and not thinking to join college anymore.
+reasons, and not thinking about joining college anymore.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:05)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
-⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel   ⚙ Vue
-⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB   ⚙ Redis
-⚙ tailwind    ⚙ Pinia      ⚙ Storybook  ⚙ Alpine.js  ⚙ jQuery    ⚙ GraphQL
-⚙ Nuxt.js     ⚙ Astro      ⚙ gRPC       ⚙ NPM        ⚙ Firebase  ⚙ git
-⚙ Linux       ⚙ Figma      ⚙ Docker
+⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel     ⚙ Vue
+⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB     ⚙ Redis
+⚙ tailwind    ⚙ Pinia      ⚙ Storybook  ⚙ Alpine.js  ⚙ jQuery      ⚙ GraphQL
+⚙ Nuxt.js     ⚙ Astro      ⚙ gRPC       ⚙ NPM        ⚙ Firebase    ⚙ git
+⚙ Linux       ⚙ Figma      ⚙ Docker     ✦ Web Sec    ✦ Pentesting  ✦ bug hunting
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:06)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
@@ -83,7 +83,7 @@ reasons, and not thinking to join college anymore.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:07)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
-I ...
+Not declared yet
  
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:08)──○ grep -i contact info.txt                                                     ○──(Fri,Mar18)─┘
