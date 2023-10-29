@@ -125,19 +125,19 @@ My Accounts:
      <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
    </a>
    
-   <a href="http://instagram.com/eymen.dev">
+   <a href="http://instagram.com/deveymen">
      <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
    </a>
    
-   <a href="https://www.codewars.com/users/eymxn">
+   <a href="https://www.codewars.com/users/aymxn">
      <img src="https://img.shields.io/badge/Codewars-0d1117?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars" />
    </a>
    
-   <a href="https://www.upwork.com">
+   <a href="https://www.upwork.com/users/eymen">
      <img src="https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
    </a>
    
-   <a href="http://instagram.com/eymen.dev">
+   <a href="http://instagram.com/deveymen">
      <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
    </a>
    
