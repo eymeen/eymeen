@@ -67,18 +67,19 @@ reasons, and not thinking about joining college anymore.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:05)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
-⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel     ⚙ Vue
+⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel     ⚙ Vue         ⚙ NestJS
 ⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB     ⚙ Redis
 ⚙ tailwind    ⚙ Pinia      ⚙ Storybook  ⚙ Alpine.js  ⚙ jQuery      ⚙ GraphQL
 ⚙ Nuxt.js     ⚙ Astro      ⚙ gRPC       ⚙ NPM        ⚙ Firebase    ⚙ git
-⚙ Linux       ⚙ Figma      ⚙ Docker     ✦ Web Sec    ✦ Pentesting  ✦ bug hunting
+⚙ Linux       ⚙ Figma      ⚙ Docker     ✦ Web Sec    ✦ Pentesting  ✦ bug hunting 
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:06)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
 1. Modular Backend
 2. SAM Stack (https://stackshare.io/eymen/sam).
 3. Modular Visual Panel
-4. ... (there's more but still private)
+4. Webducks (or the CJO)
+5. ... (there's more but still private)
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:07)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
