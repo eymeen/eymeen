@@ -35,7 +35,7 @@ https://patorjk.com/software/taag/
                         /mmm/        /mmm/        /mmm/
  
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:01)──○ eymen --stats --table                                                        ○──(Fri,Mar18)─┘
+└─(12:00:01)──○ ayman --stats --table                                                        ○──(Fri,Mar18)─┘
 ╔═════════════════╦═══════╗
 ║    Category     ║ Score ║
 ╠═════════════════╬═══════╣
@@ -47,13 +47,13 @@ https://patorjk.com/software/taag/
 
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:02)──○ eymen --whoishe                                                              ○──(Fri,Mar18)─┘
+└─(12:00:02)──○ ayman --whoishe                                                              ○──(Fri,Mar18)─┘
 I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and laraWare), UX/UI Designer,
 and a Beginner Ethical Hacker.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:03)──○ eymen --info                                                                 ○──(Fri,Mar18)─┘
-I'm Eymen, from Syrian, I use Computer min 8 hours daily since I was 4 years old, I'm -proudly-
+└─(12:00:03)──○ ayman --info                                                                 ○──(Fri,Mar18)─┘
+I'm Ayman, from Syrian, I use Computer min 8 hours daily since I was 4 years old, I'm -proudly-
 the tech guy of my friends and family. I love boxing, Muaythai, and anything that helps in real fights.
 I love running too, my only source of happiness after the Holy Quran. I'm also interested in Arabic literature
 and human psychology, I'm just good at them with no effort. I also have a unique hobby, which is learning
@@ -61,12 +61,12 @@ escaping techniques, breaking into locked stuff, surviving extremely harsh envir
 you can say, real-life hacking.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:04)──○ eymen --education                                                            ○──(Fri,Mar18)─┘
+└─(12:00:04)──○ ayman --education                                                            ○──(Fri,Mar18)─┘
 I've got accepted into Tufts University, CompSci, class of 2027. But couldn't travel out there for some
 reasons, and not thinking about joining college anymore.
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:05)──○ eymen --skills -icons                                                        ○──(Fri,Mar18)─┘
+└─(12:00:05)──○ ayman --skills -icons                                                        ○──(Fri,Mar18)─┘
 ⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel     ⚙ Vue         ⚙ NestJS
 ⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB     ⚙ Redis
 ⚙ tailwind    ⚙ Pinia      ⚙ Storybook  ⚙ Alpine.js  ⚙ jQuery      ⚙ GraphQL
@@ -74,7 +74,7 @@ reasons, and not thinking about joining college anymore.
 ⚙ Linux       ⚙ Figma      ⚙ Docker     ✦ Web Sec    ✦ Pentesting  ✦ bug hunting 
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:06)──○ eymen --project -list                                                        ○──(Fri,Mar18)─┘
+└─(12:00:06)──○ ayman --project -list                                                        ○──(Fri,Mar18)─┘
 1. Modular Backend
 2. SAM Stack (https://stackshare.io/eymen/sam).
 3. Modular Visual Panel
