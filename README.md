@@ -110,9 +110,6 @@ Not declared yet
 Mon Jul 31 12:00:10 +03 2023
                                         
 ```
-> [!NOTE]  
-> You'll notice that I have 0 contributions on Fridays after August 2023. See why I did that and the importance of doing it [**here**](https://github.com/eymeen/friday)
-
 <div align="center">
  <h3>Web Geeks</h3>
   <a href="https://github.com/CJO/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
