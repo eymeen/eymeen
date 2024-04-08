@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&lines=Assalamu+Alaykum%F0%9F%92%99%F0%9F%92%99%F0%9F%AB%82;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></p>
 <!--
 > [!NOTE]  
-> Most of my public repositories are moved to [@webducks](https://github.com/webducks) clan!
+> Most of my public repositories are moved to [@CJO](https://github.com/CJO) clan!
 -->
 
 > [!NOTE]  
@@ -34,7 +34,7 @@ https://patorjk.com/software/taag/
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
  
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:01)──○ ayman --stats --table                                                        ○──(Fri,Mar18)─┘
 ╔═════════════════╦═══════╗
 ║    Category     ║ Score ║
@@ -46,12 +46,12 @@ https://patorjk.com/software/taag/
 ╚═════════════════╩═══════╝
 
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:02)──○ ayman --whoishe                                                              ○──(Fri,Mar18)─┘
 I'm a full stack web developer (with experience in Laravel, Mevn, SAM Stack, and laraWare), UX/UI Designer,
 and a Beginner Ethical Hacker.
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:03)──○ ayman --info                                                                 ○──(Fri,Mar18)─┘
 I'm Ayman, from Syrian, I use Computer min 8 hours daily since I was 4 years old, I'm -proudly-
 the tech guy of my friends and family. I love boxing, Muaythai, and anything that helps in real fights.
@@ -60,12 +60,12 @@ and human psychology, I'm just good at them with no effort. I also have a unique
 escaping techniques, breaking into locked stuff, surviving extremely harsh environments, staying anonymous... etc,
 you can say, real-life hacking.
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:04)──○ ayman --education                                                            ○──(Fri,Mar18)─┘
 I've got accepted into Tufts University, CompSci, class of 2027. But couldn't travel out there for some
 reasons, and not thinking about joining college anymore.
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:05)──○ ayman --skills -icons                                                        ○──(Fri,Mar18)─┘
 ⚙ JavaScript  ⚙ TypeScript ⚙ PHP        ⚙ Node       ⚙ Laravel     ⚙ Vue         ⚙ NestJS
 ⚙ Svelte      ⚙ ExpressJS  ⚙ PostgreSQL ⚙ MySQL      ⚙ MongoDB     ⚙ Redis
@@ -73,19 +73,19 @@ reasons, and not thinking about joining college anymore.
 ⚙ Nuxt.js     ⚙ Astro      ⚙ gRPC       ⚙ NPM        ⚙ Firebase    ⚙ git
 ⚙ Linux       ⚙ Figma      ⚙ Docker     ✦ Web Sec    ✦ Pentesting  ✦ bug hunting 
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:06)──○ ayman --project -list                                                        ○──(Fri,Mar18)─┘
 1. Modular Backend
 2. SAM Stack (https://stackshare.io/eymen/sam).
 3. Modular Visual Panel
-4. Webducks (or the CJO)
+4. CJO (or the CJO)
 5. ... (there's more but still private)
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:07)──○ cat interests.txt                                                            ○──(Fri,Mar18)─┘
 Not declared yet
  
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:08)──○ grep -i contact info.txt                                                     ○──(Fri,Mar18)─┘
 🔗: https://linktr.ee/eymeen
 📷: @deveymen
@@ -94,13 +94,13 @@ Not declared yet
 💼: https://upwork.com/users/eymen
 𝕏 : https://x.com/eymen_eid
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:09)──○ todo                                                                         ○──(Fri,Mar18)─┘
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
+└─(12:00:09)──○ todo                                                                          ○──(Mon,Apr8)─┘
 ▢ Making the open source blog (check eymeen/blog)
 ▢ Practicing my right on keyboard hand to make balance (also to stop using the mouse)
 ▢ making vaceless short content on instagram reels and tiktok 
 
-┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
+┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:10)──○ date                                                                         ○──(Fri,Mar18)─┘
 Mon Jul 31 12:00:10 +03 2023
                                         
@@ -110,7 +110,7 @@ Mon Jul 31 12:00:10 +03 2023
 
 <div align="center">
  <h3>Web Geeks</h3>
-  <a href="https://github.com/webducks/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
+  <a href="https://github.com/CJO/support/issues/new?assignees=&labels=clan-attendance&template=attendance.yml&title=I+want+to+join+the+clan">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a> 
   <a href="https://discord.gg/hPgB5pVJBj">
