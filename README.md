@@ -95,8 +95,10 @@ Not declared yet
 𝕏 : https://x.com/eymen_eid
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
-└─(12:00:09)──○ pwd                                                                          ○──(Fri,Mar18)─┘
-practicing algorithms and data structures
+└─(12:00:09)──○ todo                                                                         ○──(Fri,Mar18)─┘
+▢ Making the open source blog (check eymeen/blog)
+▢ Practicing my right on keyboard hand to make balance (also to stop using the mouse)
+▢ making vaceless short content on instagram reels and tiktok 
 
 ┌─(~/github@eymeen)─────────────────────────────────────────────────────────────────(bibarz@WebDucks:pts/0)─┐
 └─(12:00:10)──○ date                                                                         ○──(Fri,Mar18)─┘
