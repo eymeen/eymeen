@@ -127,7 +127,8 @@ Not declared yet
 └─(12:00:09)──○ todo                                                                          ○──(Mon,Apr8)─┘
 ▢ Making the open source blog (check eymeen/blog)
 ▢ Practicing my right on keyboard hand to make balance (also to stop using the mouse)
-▢ making vaceless short content on instagram reels and tiktok 
+▢ making vaceless short content on instagram reels and tiktok
+▢ start opensourcing 
 
 ┌─(~/github@eymeen)───────────────────────────────────────────────────────────────────────(ayman@CJO:pts/0)─┐
 └─(12:00:10)──○ date                                                                         ○──(Fri,Mar18)─┘
@@ -154,7 +155,7 @@ My Accounts:
      <img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree" />
    </a>
    
-   <a href="http://instagram.com/deveymen">
+   <a href="http://instagram.com/aymxneid">
      <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
    </a>
    
@@ -166,7 +167,7 @@ My Accounts:
      <img src="https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
    </a>
    
-   <a href="http://instagram.com/deveymen">
+   <a href="http://instagram.com/aymxneid">
      <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
    </a>
    
