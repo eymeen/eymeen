@@ -8,7 +8,7 @@
 -->
 
 <div align="center"> 
-  <h3> <i> #FreeBassel </i> </h3> <br>
+<!--   <h2> <i> #FreeBassel </i> </h3> <br> -->
+  <h3><i> Liked what I'm doing? <a href="https://stars.github.com/nominate/">Nominate Me</a> to be a github star </i></b>
 </div>
 
-<p> Liked what I'm doing <a href="https://stars.github.com/nominate/">Nominate Me</a> to be a github star </p>
