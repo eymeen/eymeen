@@ -18,10 +18,12 @@
 <h1> <sub>GOALS</sub> </h1>
 
 
-|<h3>Aikiframework</h3>|<h3>Publishing SAMN CLI</h3>|
-|-|-|
-|<br><p><i>Returning [aikiframework](https://github.com/aikiframework/aikiframework) Back to life</i></p><kbd>open-source</kbd><kbd>revive-code</kbd><kbd>php</kbd><kbd>MVC</kbd><br><br>|<br><p>Finish Creating Web Tech Stach, [SAM](https://github.com/samn-cli/).</p><kbd>Javascript</kbd><kbd>Web Development</kbd><kbd>frameworks</kbd><br><br>|
-|<h6>Check Details[^1]</h6>|<h6>Check Details[^2]</h6>|
+|<h3>Aikiframework</h3>|<h3>Publishing SAMN CLI</h3>|<h3>Laravel Boilerplate</h3>|
+|-|-|-|
+|<br><p><i>Returning [aikiframework](https://github.com/aikiframework/aikiframework) Back to life</i></p><kbd>open-source</kbd> <kbd>revive-code</kbd> <kbd>php</kbd> <kbd>MVC</kbd><br><br>|<br><p>Finish Creating Web Tech Stach, [SAM](https://github.com/samn-cli/).</p><kbd>Javascript</kbd> <kbd>Web Development</kbd> <kbd>frameworks</kbd><br><br>|<br><p> Make the ultimate CLI laravel website <br> creator [Boilerplate](https://github.com/laravel-boilerplate/).</p><kbd>Laravel</kbd><br><br>|
+|<h6>Bassel Khartabil[^1]</h6>|<h6>Check Details[^2]</h6>|<h6>Laravel Boilerplate[^2]</h6>|
+
+</div>
 
 <br>
 
@@ -29,8 +31,8 @@
 
 - [x] ~~Draw Sryia Flag in year 2016~~
 - [ ] Draw something on march 15, 2011[^3]
+- [ ] sponsor
 
-</div>
 
 
 
