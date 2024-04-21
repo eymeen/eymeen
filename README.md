@@ -4,58 +4,36 @@
 <div align="center"> 
    <h6> <sub>#FreeBassel</sub> </h6>
 </div>
+
+> [!Important] 
+> Want any help? [Contact Me](https://instagram.com/aymxneid)! 
+
 -->
 
 
 <div align="center"> 
 
+
+
 <h1> <sub>GOALS</sub> </h1>
 
 
-|<h3>Goal One</h3>|<h3>Goal One</h3>|<h3>Goal One</h3>|
-|-|-|-|
-|<br><p><i>building</i></p><kbd>ai</kbd><kbd>revive-code</kbd><kbd>javascript</kbd><br><br>|<br><p>building</p><kbd>ai</kbd><kbd>revive-code</kbd><kbd>javascript</kbd><br><br>|<br><p>building</p><kbd>ai</kbd><kbd>revive-code</kbd><kbd>javascript</kbd><br><br>|
-|-|<h6>this is alt text</h6>|<h6>this is alt text</h6>|
+|<h3>Aikiframework</h3>|<h3>Publishing SAMN CLI</h3>|
+|-|-|
+|<br><p><i>Returning [aikiframework](https://github.com/aikiframework/aikiframework) Back to life</i></p><kbd>open-source</kbd><kbd>revive-code</kbd><kbd>php</kbd><kbd>MVC</kbd><br><br>|<br><p>Finish Creating Web Tech Stach, [SAM](https://github.com/samn-cli/).</p><kbd>Javascript</kbd><kbd>Web Development</kbd><kbd>frameworks</kbd><br><br>|
+|<h6>Check Details[^1]</h6>|<h6>Check Details[^2]</h6>|
 
 <br>
-<h4> Fav Colors </h4>
+
+<h3> Sub Goals </h3>
+
+- [x] ~~Draw Sryia Flag in year 2016~~
+- [ ] Draw something on march 15, 2011[^3]
 
 </div>
 
 
 
-> hello
-
-`#RRGGBB`
-
-~~hello~~
-
-- [x] #739
-- [ ] hello
-- [ ] \(Optional) Open a followup issue
-
-:shipit:  :octocat: :electron: :dependabot: :bowtie: :accessibility: :atom: :fishsticks:
-
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+[^1]: Aikiframework is a PHP MVC framework build by <a href="https://en.wikipedia.org/wiki/Bassel_Khartabil">Bassel Khartabil Safadi</a> which was killed under tourture by the Syrian Regime.
+[^2]: Samn CLI is Svelte-based CLI, but it can be changed to any desired framework. Check download page
+[^3]: The date the [Syrian Revolution](https://github.com/blog/syria/en.MD) *Officially* started.
