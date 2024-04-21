@@ -31,8 +31,6 @@
 
 - [x] ~~Draw Sryia Flag in year 2016~~
 - [ ] Draw something on march 15, 2011[^3]
-- [ ] sponsor
-
 
 
 
