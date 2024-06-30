@@ -32,6 +32,14 @@
 - [x] ~~Draw Sryia Flag in year 2016~~
 - [ ] Draw something on march 15, 2011[^3]
 
+<h3> About Me </h3>
+
+![](https://www.codewars.com/users/aymxn/badges/large)
+
+[![LeetCode user aymxn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faymxn&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymxn/)
+<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=aymxn&theme=github-dark" alt="LeetCode Badges"/> -->
+
+
 
 
 [^1]: Aikiframework is a PHP MVC framework build by <a href="https://en.wikipedia.org/wiki/Bassel_Khartabil">Bassel Khartabil Safadi</a> which was killed under tourture by the Syrian Regime.
