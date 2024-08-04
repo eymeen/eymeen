@@ -68,7 +68,7 @@ https://patorjk.com/software/taag/
 ╔═════════════════╦═══════╗
 ║    Category     ║ Score ║
 ╠═════════════════╬═══════╣
-║   IQ            ║ 148   ║
+║   IQ            ║ 154   ║
 ║   Chess Elo     ║ 1695  ║
 ║   SAT Score     ║ 1480  ║
 ║   Upwork JSS    ║ 100%  ║
