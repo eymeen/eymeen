@@ -39,6 +39,29 @@
 [![LeetCode user aymxn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faymxn&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymxn/)
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=aymxn&theme=github-dark" alt="LeetCode Badges"/> -->
 
+<!--&rank_icon=percentile&locale=ar-->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&custom_title=King%20Ayman%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&include_all_commits=true&custom_title=King%20Ayman%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&custom_title=King%20Ayman%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&layout=donut" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&layout=donut"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&layout=donut" />
+</picture>
 
 
 
