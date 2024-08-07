@@ -29,14 +29,14 @@
 <!--&rank_icon=percentile&locale=ar-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats" 
+    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&cache_seconds=21600" 
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats"
+    srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&cache_seconds=21600"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&cache_seconds=21600" />
 </picture>
 
 
