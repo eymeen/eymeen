@@ -33,12 +33,40 @@
 - [ ] Draw something on march 15, 2011[^3]
 - [ ] Expanding [#1 community](https://github.com/programmercommunity)
 
-<h3> About Me </h3>
+<h2> About Me </h2>
+
+
+<h3> Problem Solving </h3>
+
+**CodeWars**: 
 
 [![CodeWars](https://www.codewars.com/users/aymxn/badges/large)](https://codewars.com/users/aymxn/)
 
+**LeetCode**: 
+
 [![LeetCode user aymxn](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faymxn&logo=leetcode&logoColor=yellow)](https://leetcode.com/aymxn/)
-<!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=aymxn&theme=github-dark" alt="LeetCode Badges"/> -->
+
+<!-- <b>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anwendeng&theme=github-dark&filter=comp&border=border&animated=true" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anwendeng&theme=github-dark&filter=study&border=border&animated=true" alt="LeetCode Badges"/>
+</b> <img src="https://leetcode-badge-showcase.vercel.app/api?username=anwendeng&theme=github-dark&filter=daily&border=border&animated=true" alt="LeetCode Badges"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=anwendeng&theme=github-dark&border=border&animated=true">
+
+-->
+
+<h3> GitHub: </h3>
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=eymeen&no-bg=true&no-frame=true&theme=onestar)
+
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&card_width=1000)
+
+![](https://github-readme-streak-stats.herokuapp.com?user=eymeen&background=0E1511&border=0DD754&ring=0DD754&fire=F34DD7&currStreakNum=9489F3&sideNums=9489F3&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&stroke=0DD754&card_width=465&card_height=215) َ َ َ َ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&layout=donut&card_width=465)
+
 
 
 
