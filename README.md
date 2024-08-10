@@ -66,11 +66,42 @@
 
 
 <div align="center">
-  
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&card_width=846)
-  
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=eymeen&background=0E1511&border=0DD754&ring=0DD754&fire=F34DD7&currStreakNum=9489F3&sideNums=9489F3&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&stroke=0DD754&card_width=418&card_height=215) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&layout=donut&card_width=373)
 
+
+
+
+<!--
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&card_width=846)
+
+ 
+![](https://github-readme-streak-stats.herokuapp.com?user=eymeen&background=B5D9C1&border=0E1511&ring=0E1511&fire=D08E0E&currStreakNum=0DD754&sideNums=0DD754&currStreakLabel=000000&sideLabels=000000&dates=2A2A2A&stroke=0E1511&card_width=418&card_height=215) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&layout=donut&card_width=373)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&card_width=846">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=King%20Ayman%27s%20GitHub%20Stats&card_width=846">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=eymeen&background=0E1511&border=0DD754&ring=0DD754&fire=F34DD7&currStreakNum=9489F3&sideNums=9489F3&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&stroke=0DD754&card_width=418&card_height=215">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-streak-stats.herokuapp.com?user=eymeen&background=B5D9C1&border=0E1511&ring=0E1511&fire=D08E0E&currStreakNum=0DD754&sideNums=0DD754&currStreakLabel=000000&sideLabels=000000&dates=2A2A2A&stroke=0E1511&card_width=418&card_height=215">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=0E1511&title_color=B5D9C1&text_color=FFFFFF&icon_color=0DD754&border_color=0DD754&layout=donut&card_width=373">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=eymeen&show_icons=true&bg_color=B5D9C1&title_color=0E1511&text_color=000000&icon_color=0E1511&border_color=0DD754&layout=donut&card_width=373">
+</picture>
+-->
 </div>
 
 
