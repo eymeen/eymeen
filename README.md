@@ -26,13 +26,6 @@
 </div>
 
 <br>
-
-<h3> Sub Goals </h3>
-
-- [x] ~~Draw Sryia Flag in year 2016~~
-- [ ] Draw something on march 15, 2011[^3]
-- [ ] Expanding [#1 community](https://github.com/programmercommunity)
-
 <h2> About Me </h2>
 
 
