@@ -14,7 +14,7 @@ analytics
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&separator=%3C&lines=Hacking....;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&separator=%3C&lines=Open+Sourcing...;" alt="Typing SVG" />
 </p>
 
 
