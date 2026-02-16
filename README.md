@@ -22,7 +22,7 @@ analytics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eymeen&label=Profile+likes&color=baa87a&style=for-the-badge&abbreviated=true">
-  <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" />
+  <a href="https://raw.githubusercontent.com/eymeen/eymeen/6f7f908f24f523dbaf361915044184474fbdce53/CV.pdf" download="" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 </p>
 
 
