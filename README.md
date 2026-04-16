@@ -5,20 +5,75 @@ analytics
 
 
 
+<p align="center"><img src="https://raw.githubusercontent.com/eymeen/eymeen/refs/heads/main/syria5.jpg"</p>
 
 -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/eymeen/eymeen/refs/heads/main/syria5.jpg"</p>
 
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=435&separator=%3C&lines=Open+Sourcing...;" alt="Typing SVG" />
-</p>
+</p> -->
+```
+✦                                          ✦          ✦                 .                           .                                  ✦                                            .                                              
+          ✦               .                                              _.oo.                                                        .                                       .             ✦                    _           _                                                                                                                                                                                          
+                                                 _.u[[/;:,.         .odMMMMMM'                    ✦                    .                                       .                                                /  \        /  \            ✦                 .                           .                                  ✦                                            .                                              
+    .             .                           .o888UU[[[/;:-.  .o@P^    MMM^                                                                      ✦                                                             |   \______/   |                                          ✦                                                                       ✦                                            ✦                        
+           ✦                                 oN88888UU[[[/;::-.        dP^             .                      .             ✦                                              .                                   |               |       VOYAGER 1                                                                                                                                                                        
+                                            dNMMNN888UU[[[/;:--.   .o@P^                                                                                                                                        |      __       |      [NASA-77]             .                             .                       .                                            .                                                        
+  // MISSION LOG: 2004-05-15               ,MMMMMMN888UU[[/;::-. o@^                        ✦                                                       .                      ✦                 .                 |     /  \      |                                                                                                                                                                                        
+  while (fuel > 0) {       .               NNMMMNN888UU[[[/~.o@P^             .                                                                                                                                 |    |    |     |              .                                 ✦                         .                          ✦                                              .                                   
+      ship.accelerate();                   888888888UU[[[/o@^-..                                                                 .                       .                                     ✦                \____\___/_____/                                                                                                                                                                                         
+      distance++;            ✦            oI8888UU[[[/o@P^:--..       .                  ✦                                                                      ✦                                                     ||                                       .                                                                                  ✦                                                                    
+  }        .                            .@^  YUU[[[/o@^;::---..                                                                                                                       .                                ||              ✦                                                 .                                      .                                        ✦                        .                     
+                          .           oMP     ^/o@P^;:::---..                  .                                                                                                                                   ____||____                                                                           ✦                                                                                                               
+    ✦                 .             .dMMM    .o@^ ^;::---...           ✦                                                                              .                      .                                   /          \                                       .                                                                           .                                                                      
+                                   dMMMMMMM@^`       `^^^^                                   .             ✦                      .                                                                   ✦         /____________\        .             ✦                                  .                                                                      ✦                                           ✦            
+           .                      YMMMUP^         .                  .                                                                         ✦              HISTORY: 1977 - Voyager 1 Launch                        |  |                                                                                ✦                      .                                                                                      
+                         ✦         ^^                                           ✦                                          .                                                                                          |  |                                  .                  ✦                                                                                                     .                                  
+                                                                                                                                                                                                                      '--'             ✦                                                                            .                                       ✦
+             .                                 .             ✦                                     .                                     .                      ✦                       .               
 
+```
+<!--
+```
+___________________________________________________________________________
+// [ SYSTEM: ONLINE ]                                    [ USER: EYMEN ] //
+//_______________________________________________________________________//
+          
+                 !
+                 ^
+                / \
+               /___\
+              |=   =|
+              |  E  |
+              |  Y  |      .                 .             *
+              |  M  |
+              |  E  |             .                +
+              |  N  |
+              |     |                   * .
+             /|##!##|\
+            / |##!##| \        [ git commit -m "to the moon" ]
+           /  |##!##|  \
+          |  / ^ | ^ \  |             .           .
+          | /  ( | )  \ |
+          |/   ( | )   \|      * +              *
+              ((   ))
+             ((  :  ))    .            .             .
+            ((  :  ))
+             ((   ))          * * .
+              (( ))
+               ( )
+                .
+                .
 
-
+//_______________________________________________________________________\\
+// [ STACK: PHP_LARAVEL ] [ STATUS: EXPLORING ] [ LOC: DEEP_SPACE_01 ] //
+\\_______________________________________________________________________//
+```
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eymeen&label=Profile+likes&color=baa87a&style=for-the-badge&abbreviated=true">
