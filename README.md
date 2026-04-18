@@ -37,47 +37,11 @@ analytics
              .                                 .             ✦                                     .                                     .                      ✦                       .               
 
 ```
-<!--
-```
-___________________________________________________________________________
-// [ SYSTEM: ONLINE ]                                    [ USER: EYMEN ] //
-//_______________________________________________________________________//
-          
-                 !
-                 ^
-                / \
-               /___\
-              |=   =|
-              |  E  |
-              |  Y  |      .                 .             *
-              |  M  |
-              |  E  |             .                +
-              |  N  |
-              |     |                   * .
-             /|##!##|\
-            / |##!##| \        [ git commit -m "to the moon" ]
-           /  |##!##|  \
-          |  / ^ | ^ \  |             .           .
-          | /  ( | )  \ |
-          |/   ( | )   \|      * +              *
-              ((   ))
-             ((  :  ))    .            .             .
-            ((  :  ))
-             ((   ))          * * .
-              (( ))
-               ( )
-                .
-                .
 
-//_______________________________________________________________________\\
-// [ STACK: PHP_LARAVEL ] [ STATUS: EXPLORING ] [ LOC: DEEP_SPACE_01 ] //
-\\_______________________________________________________________________//
-```
--->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eymeen&label=Profile+likes&color=baa87a&style=for-the-badge&abbreviated=true">
-  <a href="https://raw.githubusercontent.com/eymeen/eymeen/6f7f908f24f523dbaf361915044184474fbdce53/CV.pdf" download="" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+  <a href="https://user-badge.committers.top/syria/eymeen"> <img src="https://user-badge.committers.top/syria/eymeen.svg"> </a> <br>
+  <a href="https://user-badge.committers.top/turkey/eymeen"> <img src="https://user-badge.committers.top/turkey/eymeen.svg"> </a>
 </p>
 
 
@@ -102,4 +66,9 @@ ___________________________________________________________________________
 <a href="https://linkedin.com/in/eymeen" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
+<a href="https://raw.githubusercontent.com/eymeen/eymeen/6f7f908f24f523dbaf361915044184474fbdce53/CV.pdf" download="" target="_blank"><img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eymeen&label=Bugs&color=baa87a&style=for-the-badge&abbreviated=true"> <br>
 </div>
